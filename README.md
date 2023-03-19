@@ -1,6 +1,6 @@
 #feinpilot
 
-![Feinpilot Alpha](<img src="https://user-images.githubusercontent.com/32096531/226183602-69076b64-f4c2-4cda-8f77-781b04466ed4.png" width="200"/>)
+![Feinpilot Logo White500](https://user-images.githubusercontent.com/32096531/226184061-42c034d9-78ff-423e-8c84-91dfc4163b73.png)
 
 Get help from the most powerful AI in the world wherever you are, system-wide, across Windows. 
 
